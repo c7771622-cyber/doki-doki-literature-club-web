@@ -1,0 +1,6 @@
+*.zip binary
+*.data binary
+*.wasm binary
+*.rpa binary
+*.png binary
+*.jpg binary
